@@ -1,0 +1,2 @@
+# display_c_module
+使用c实现的python扩展模块，包含一系列display相关的函数，用于display-setter
