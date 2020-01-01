@@ -1,0 +1,2 @@
+C:\Users\panba\AppData\Local\Programs\Python\Python37-32\include
+C:\Users\panba\AppData\Local\Programs\Python\Python37-32\libs\python37_d.lib
